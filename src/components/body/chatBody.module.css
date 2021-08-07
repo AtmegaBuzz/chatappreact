@@ -1,0 +1,10 @@
+.chatBody{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(19, 13, 13);
+    height: 90vh;
+    width: 100vw;
+    color: white;
+    
+}

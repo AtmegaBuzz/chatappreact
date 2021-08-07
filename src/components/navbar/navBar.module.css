@@ -1,0 +1,30 @@
+.navContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 18vh;
+    background-color: rgb(11, 113, 70);
+    border-bottom: 1px solid rgb(1, 58, 1);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    align-items: center;
+}
+
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    height: 40%;
+    color: white;
+    padding-top: 30px;
+}
+
+.Search{
+    display: flex;
+    width: 10%;
+}
+
+h3{
+    color: white;
+}

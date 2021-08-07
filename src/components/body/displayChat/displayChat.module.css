@@ -1,0 +1,7 @@
+.ChatContainer{
+    width: 95%;
+    height: 85%;
+    margin-top: 10px;
+    overflow-y:scroll;
+    margin: 5px;
+}

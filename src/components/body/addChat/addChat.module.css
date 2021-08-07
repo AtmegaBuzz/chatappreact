@@ -1,0 +1,57 @@
+.ChatSection{
+    display: flex;
+    width: 90%;
+    height: 9%;
+    
+    
+}
+
+.Form{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: right;
+    
+
+}
+
+#inputCont,#sendCont{
+    display: flex;
+    align-items: center;
+
+}
+
+#inputCont{
+
+    height: 100%;
+    width: 90%;
+}
+
+#inputCont textarea{
+    justify-content: right;
+    width: 90%;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    background-color: #423f3f;
+    resize: none;
+    max-height: 10vh;
+    color: white;
+    font-size: 1.2rem;
+    box-shadow: 0 0 6px black;
+    outline: none;
+    caret-color: white;
+    
+}
+
+#sendCont{
+    height: 100%;
+    width: 5%;
+    background-color: transparent;
+    border: none;
+    color: white;
+    border: none;
+    outline: none;
+
+}
